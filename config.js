@@ -13,7 +13,7 @@ const siteConfig = {
 const users = [
   {
     id: 0, // default author
-    username: "Junghoon Lim",
+    username: "JhL",
     company: "weniv",
     position: "CEO",
     img: "img/user/profile-me.png",
